@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Be Vietnam Pro', sans-serif;
+}
+body{
+  width: 100vw;
+  height: 100vh;
+  background-color:#20293A ;
+  background-image: url(/hero-image-github-profile.png);
+  background-repeat: no-repeat;
+  background-size: 100vw 30vh;
+  overflow-x: hidden;
+
+}
